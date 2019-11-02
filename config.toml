@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://teckup-tokyo.github.io/"
+baseurl = "https://teckup-tokyo.netlify.com/"
 languageCode = "en"
 title = "TeckUp Tokyo"
 theme = "hugo-theme-cactus-plus"
