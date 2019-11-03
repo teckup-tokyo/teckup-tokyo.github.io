@@ -1,30 +1,30 @@
 # Site settings
 baseurl = "https://teckup-tokyo.netlify.com/"
-languageCode = "en"
+languageCode = "ja"
 title = "TeckUp Tokyo"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+# yumechi's googleAnalytics code
+googleAnalytics = "UA-120509470-4"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 [params]
 	author = "TeckUp Tokyo"
-	description = "Site Description"
-	bio = "author biography"
+	description = "みんなでTeck Up！"
+	bio = "「TeckUp」は、技術や専門領域に縛られず、成長したいと思う人たちが集まるコミュニティです。 「TeckUp」という名前は、技術(Technology)の「Tech」と成長を表す「Up」を組み合わせることで、「技術的に成長する人の集まり」という意味が込められています。 "
 
 	twitter = "teckup_tokyo"
-	facebook = "your_facebook_id"
+	facebook = ""
 
 	enableRSS = true
 	enableToc = true
 
 	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
-
+	disqusShortname = "teckup"
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
-	useDescriptionReplaceSummary = false
+	useDescriptionReplaceSummary = true
 
 
 	enableGoogleAnalytics = true
@@ -51,7 +51,7 @@ hasCJKLanguage = false
 
 	olderPosts = ""
 	newerPosts = ""
-	copyright = ""
+	copyright = "2019 TeckUp"
 
 	# show latest posts in single page
 	showLatestPosts = false
@@ -68,8 +68,8 @@ hasCJKLanguage = false
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = ""
 
 
 # Add additional social link entries underneath
