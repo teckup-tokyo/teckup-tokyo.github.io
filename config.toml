@@ -19,8 +19,8 @@ hasCJKLanguage = true
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
-	disqusShortname = "teckup"
+	enableDisqus = false
+	disqusShortname = "TeckUp"
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
