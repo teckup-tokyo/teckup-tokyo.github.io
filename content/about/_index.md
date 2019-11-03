@@ -1,15 +1,38 @@
 +++
-date = "2015-06-20T14:02:37+02:00"
+date = "2019/11/03T13:48:51+09:00"
 title = "About"
 hidden = true
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
+# TeckUp とは？
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+**みんなでTeck Up！**
 
-***
+「TeckUp」は、技術や専門領域に縛られず、成長したいと思う人たちが集まるコミュニティです。
 
-### Lorem ipsum dolor.
+「TeckUp」という名前は、技術(Technology)の「Tech」と成長を表す「Up」を組み合わせることで、「技術的に成長する人の集まり」という意味が込められています。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+また「Teck」とあえて表現している部分は、「Tech Up」という言葉を、「Kick up」や「Pick up」、「Back up」などの自分が思う様々な言葉として表現できることを表しており、これは「専門領域に縛られず、参加者のみなさんが多様性を尊重し、それぞれイメージした言葉を自由に表現してほしい」という意味が込められています。
+
+もくもく会、LT会を通して、みんなで成長していきましょう！
+
+# こんな人に来てほしい
+<br />
+
+* プログラミング好きだけど、どこから手をつけていいか分からない
+* 家だとやる気でない
+* 困ってる課題を解決してあげたい
+* 技術力を上げたい
+
+※もくもく会初めての方も参加歓迎！経験豊富な運営陣が開発やキャリア相談に乗ります！
+
+# 各種リンク
+<br />
+
+* twitter: [@teckup_tokyo](https://twitter.com/teckup_tokyo)
+    * イベントの告知や当日の案内などを発信しています。ぜひフォローしてください。
+* gitter: https://gitter.im/teckup-tokyo/community
+    * もくもく会でつぶやくための場所として用意してあります。発言は公開されているので、ご注意を！
+    * 使い方模索中なので、おすすめの設定等ありましたら、ぜひ共有いただけると助かります。
+

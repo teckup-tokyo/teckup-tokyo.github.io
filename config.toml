@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://teckup-tokyo.netlify.com/"
 languageCode = "ja"
-title = "TeckUp Tokyo"
+title = "TeckUp"
 theme = "hugo-theme-cactus-plus"
 # yumechi's googleAnalytics code
 googleAnalytics = "UA-120509470-4"
@@ -9,7 +9,7 @@ googleAnalytics = "UA-120509470-4"
 hasCJKLanguage = true
 
 [params]
-	author = "TeckUp Tokyo"
+	author = "TeckUp"
 	description = "みんなでTeck Up！"
 	bio = "「TeckUp」は、技術や専門領域に縛られず、成長したいと思う人たちが集まるコミュニティです。 「TeckUp」という名前は、技術(Technology)の「Tech」と成長を表す「Up」を組み合わせることで、「技術的に成長する人の集まり」という意味が込められています。 "
 
