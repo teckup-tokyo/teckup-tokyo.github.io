@@ -1,5 +1,5 @@
 +++
-title = "LT会のリンク"
+title = "過去開催LT回まとめ"
 date = 2019-11-03T10:42:44+09:00
 tags = ["イベント", "LT会"]
 categories = ["LT会"]
